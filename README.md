@@ -1,4 +1,5 @@
-[![Website](https://yusufhanoglu.github.io/svg/website2.png)](https://yusufhanoglu.github.io/home.html)
+[![Website](https://yusufhanoglu.github.io/svg/website3.png)](https://yusufhanoglu.github.io/home.html)
+[![Releases](https://yusufhanoglu.github.io/svg/releases1.png)](https://github.com/yusufhanoglu/SensorCamera/releases)
 
 # Trace an Object With Acceleration Data
 This project which contains a Android application and a Java desktop application aims to estimate object position with using accelerometer data and camera.<br>
