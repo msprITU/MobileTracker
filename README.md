@@ -10,6 +10,12 @@ Sensor Camera app records video and accelerometer data simultaneously, accelerom
 To record sensor data go settings and check "İvme Verisini Kaydet" radio button. <br>
 Both sensor data and video will be saved DCIM/SensorKamera directory.<br>
 [Releases](https://github.com/yusufhanoglu/SensorCamera/releases)
+<p align="center">
+  <a href="">
+    <img src="https://yusufhanoglu.github.io/svg/odpic.png" width="1141" height="555">
+  </a>
+</p>
+
 
 # Acceleration Estimation Application - Java Desktop
 This Java desktop application is designed to estimate position of an object with using video file and accelerometer data file captured with Sensor Camera app in Android.<br>
