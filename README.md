@@ -12,7 +12,7 @@ Both sensor data and video will be saved DCIM/SensorKamera directory.<br>
 [Releases](https://github.com/yusufhanoglu/SensorCamera/releases)
 <p align="center">
   <a href="">
-    <img src="https://yusufhanoglu.github.io/svg/odpic.png" width="1141" height="555">
+    <img src="https://yusufhanoglu.github.io/svg/odpic.jpg" width="1141" height="555">
   </a>
 </p>
 
